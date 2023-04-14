@@ -1,13 +1,23 @@
 .cabecalho {
+display: flex;
+justify-content: space-around;
+align-items: center;
 background-color: #262bbd;
+
 }
+
 .cabecalho__imagem {
 
+    
     width: 130px;
     height: 157px;
+    border-radius: 100px;
+
 }
 
 .cabecalho__titulo, .cabecalho__menu {
 
-    display; inli
+    display; inline;
+
+    
 }
