@@ -66,10 +66,11 @@ padding: 0%;
     } 
 
     .professores__div {
-        text-align: center;
-        }
+    text-align: center;
+
+     }
         
-        .professores__div-imagem{
+    .professores__div-imagem{
         width: 120px;
         height: auto;
         
