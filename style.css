@@ -4,10 +4,6 @@ padding: 0%;
 }
 
 
-
-
-
-
 .cabecalho {
     display: flex;
     justify-content: space-around;
@@ -61,3 +57,10 @@ padding: 0%;
     .escola__paragrafo{
         text-align: justify;
     }
+
+    .professores{
+        background-color: #7a7a7a;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+    } 
