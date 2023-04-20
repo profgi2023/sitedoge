@@ -64,3 +64,13 @@ padding: 0%;
         margin: 20px;
         padding: 20px;
     } 
+
+    .professores__div {
+        text-align: center;
+        }
+        
+        .professores__div-imagem{
+        width: 120px;
+        height: auto;
+        
+        }
