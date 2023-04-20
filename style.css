@@ -3,6 +3,10 @@ margin: 0%;
 padding: 0%;
 }
 
+body{
+    font-family: 'Anuphan', sans-serif;
+    
+}
 
 .cabecalho {
     display: flex;
@@ -74,4 +78,4 @@ padding: 0%;
         width: 120px;
         height: auto;
         
-        }
+    }
