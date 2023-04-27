@@ -63,6 +63,9 @@ body{
     }
 
     .professores{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        grid-template-rows: auto auto;
         background-color: #8f7ca5;
         border-radius: 40px;
         margin: 20px;
